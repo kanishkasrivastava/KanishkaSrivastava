@@ -1,11 +1,2 @@
-### Hi there 👋
-
-<!--
-**kanishkasrivastava/KanishkaSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am Kanishka Srivastava
-- 🌱 I’m currently learning C/C++
-- 💬 Ask me about technical skills,science and zoology.
-- 📫 How to reach me:srivastavadev1711@gmail.com
-- ⚡ Fun fact:Teeth are considered part of skeletal System but not considered as part of Bones.
---
+<h1 align="center">Hi 👋, I'm Kanishka Srivastava</h1> <h3 align="center">BE HAPPY</h3> -<p> 🌱 I’m currently learning **C/C++** 
+- 📫How to reach me :srivastavadev1711@gmail.com</p><h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.instagram.com/srivastavadev1711/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srivastavadev1711/?hl=en" height="30" width="40" /></a> <a href="https://www.hackerrank.com/Kanishka_Sri1711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="http://hackerrank.com/Kanishka_Sri1711" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C/C++" width="40" height="40"/> </a> </p>
