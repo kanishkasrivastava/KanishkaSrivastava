@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishka Srivastava</h1><h3 align="center">Just trying to be better.</h3>
+<h3>- :video_game: My First Project [2D Game Using hatchxr](https://kids.hatchxr.com/@Coder-2022/courses/super-mario)</h3>
 <h3>👯 I’m looking to collaborate on new open source ideas.</h3>- 💬 Ask me about technology, zoology, Science. I like to learn and be multi dimensional in my knowledge.
 
 🌱 I’m currently learning *C, HTML, CSS,C++*
