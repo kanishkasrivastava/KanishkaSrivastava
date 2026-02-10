@@ -2,8 +2,8 @@
 
 <h3 align="center">
   Passionate Open-Source Enthusiast from India <br>
-  🏫 Student at Bengal College of Engineering & Technology, Durgapur <br>
-  🌱 Currently learning React Js
+  🏫 A well recognised Poet <br>
+  🌱 Currently sharpening my core knowledge and boosting my problem solving skills.
 </h3>
 
 <p align="center"> 
@@ -19,9 +19,9 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Open-Source Projects**
-- 🌱 I’m learning **React JS and DSA**
+- 🌱 I’m learning **FullStack and DSA**
 - 👯 I’m looking to collaborate on **new open-source ideas**
-- 💬 Ask me about **Technology, Zoology, Science**
+- 💬 Ask me about **Technology, Zoology, Science , Literature**
 - 📫 Reach me at: [srivastavadev1711@gmail.com](mailto:srivastavadev1711@gmail.com)
 - ⚡ Fun fact: Teeth are part of the skeletal system but aren't considered bones!
 
